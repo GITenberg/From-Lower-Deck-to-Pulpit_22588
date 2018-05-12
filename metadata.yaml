@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25428'
     url: http://www.gutenberg.org/2009/agents/25428
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22588#From-Lower-Deck-to-Pulpit
 gutenberg_issued: '2007-09-12'
 gutenberg_type: Text
 identifiers:
